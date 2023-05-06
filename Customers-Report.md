@@ -395,6 +395,6 @@ sd(residuals(mymodel))
 
 We expect the mean of residuals to be close to zero, and it is, and the
 standard deviation of residuals to be close to the standard deviation of
-the error term from the fir to the training sample.
+the error term from the training sample.
 
 ##### Those look pretty good!

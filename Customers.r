@@ -1,5 +1,4 @@
-main <- "C:/Users/Admin/OneDrive/Desktop/MULAA/R projects/"
-setwd(main)
+
 customers1 <- read.table(file = "Customers.csv", header = TRUE, sep = ",")
 head(customers1)
 str(customers1)
